@@ -48,3 +48,5 @@ function play(ID, STOP, LMAO)
         end
     end
 end
+
+-- Original FatX
